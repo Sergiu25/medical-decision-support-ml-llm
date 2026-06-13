@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
+
+# Data
+data/
+*.csv
+*.xlsx
+*.parquet
+*.jsonl
+
+# Outputs / trained models
+outputs/
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.bin
+*.safetensors
+checkpoint*/
+runs/
+wandb/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Archives
+*.zip
+
+# Generated figures / exported plots
+*.png
+*.pdf
+
+# Data
+data/
+*.csv
+*.xlsx
+*.parquet
+*.jsonl
+
+# Outputs / trained models
+outputs/
+outputs*/
+*.pt
+*.pth
+*.pkl
+*.joblib
+*.bin
+*.safetensors
+checkpoint*/
+runs/
+wandb/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment / secrets
+.env
+*.env
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
